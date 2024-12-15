@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanjaySujir7
-- 👀 I’m interested in ... Python , Web Development
-- 🌱 I’m currently learning ... React
+- 👀 I’m interested in ... Python , Web Development, Game development, Machine Learning
+
 
 <!---
 SanjaySujir7/SanjaySujir7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
