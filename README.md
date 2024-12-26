@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SanjaySujir7
-- 👀 I’m interested in ... Python , Web Development, Game development, Machine Learning, Low level.
+- 👀 I’m interested in ... Python , Web Development, Machine Learning, Low level.
 
 
 <!---
